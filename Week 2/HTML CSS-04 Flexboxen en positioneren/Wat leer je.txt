@@ -1,0 +1,9 @@
+Flexwerken met CSS
+Container en items
+Richting bepalen
+Inhoud verdelen (over de hoofdrichting)
+Items onderling uitlijnen (dwars op de hoofdrichting)
+Verfijnd positioneren
+Vast op pagina of op scherm
+Relatief en vast met relatie
+Instelopties voor het verfijnde positioneren

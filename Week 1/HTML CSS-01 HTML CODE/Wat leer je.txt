@@ -1,0 +1,7 @@
+Een HTML document
+Kopjes en paragrafen
+Lijsten met opsommingstekens of nummers
+Blok en inline elementen
+HTML-entities
+Hyperlinks
+Afbeeldingen

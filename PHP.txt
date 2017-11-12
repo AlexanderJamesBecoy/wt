@@ -1,0 +1,73 @@
+PHP-01: Variabelen en strings
+---------------------------------------
+-PHP en HTML
+-Variabelen en strings
+-Gegevenstypes
+-String- en type-functies
+-Genereren en printen van tekst
+
+
+PHP-02: Arrays
+---------------------------------------
+-Arrays
+-Simpele arrays
+-Associatieve arrays
+-Meerdimensionale arrays
+-Foreach
+-Key - Value
+-Array functies
+
+
+PHP-03: Condities en herhalingen
+--------------------------------------
+-If else statement
+-Vergelijksoperatoren
+-Logische operatoren
+-Switch case
+-For loop
+-While loop
+-Do while loop
+
+
+PHP-04: Functies
+-------------------------------------
+-Functies
+-Return waardes
+-Functies met parameters
+-Default waardes
+-Scope
+-Global
+-Include en require
+
+
+PHP-05: Formulieren en sessions
+-------------------------------------
+-Formulieren
+-Method en action
+-Formulierelementen
+-URL querystring
+-Attributen: name en value
+-Superglobals $_GET en $_POST
+-Sessions
+
+
+PHP-06: Databaseconfiguratie, PDO en queries
+-------------------------------------
+-PHP drivers voor MS SQL
+-Configuraties
+-PDO
+-Verbinding maken
+-Try ... catch ...
+-Errorhandling
+-Query
+-Fetch
+
+
+PHP-07: PDO en prepared statements
+-------------------------------------
+-PDO en prepared statements
+-Een id opvragen
+-Aantal records bepalen
+-Database.php
+
+

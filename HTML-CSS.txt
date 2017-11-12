@@ -1,0 +1,65 @@
+HTML-CSS-01: HTML Code
+-----------------------------------------------
+-Een HTML document
+-Kopjes en paragrafen
+-Lijsten met opsommingstekens of nummers
+-Blok en inline elementen
+-HTML-entities
+-Hyperlinks
+-Afbeeldingen
+
+
+HTML-CSS-02: CSS styles
+-----------------------------------------------
+-Stylesheet en CSS styles
+-Kleuren, lettertypen en maateenheden
+-Lijst- en tekstopmaak
+-Stylesheet, style element, inline style
+-Het boxmodel
+-Vulling, rand, marge, ronde hoeken
+-DIV (voor blokken) - SPAN (voor inline elementen)
+
+
+HTML-CSS-03: Layout, structuur en selectoren
+-----------------------------------------------
+-Basis lay-out, opmaak
+-Classes
+-Pseudo classes
+-ID's
+-Combiselectoren
+-Float en clear
+-HTML structuurelementen
+-Lay-out structuurelementen
+
+
+HTML-CSS-04: Flexboxen en positioneren
+-----------------------------------------------
+-Flexwerken met CSS
+-Container en items
+-Richting bepalen
+-Inhoud verdelen (over de hoofdrichting)
+-Items onderling uitlijnen (dwars op de hoofdrichting)
+-Verfijnd positioneren
+-Vast op pagina of op scherm
+-Relatief en vast met relatie
+-Instelopties voor het verfijnde positioneren
+
+
+HTML-CSS-05: Responsive design en formulieren
+-----------------------------------------------
+-Responsive design met mediaqueries
+-Formulieren
+-Formulierelementen
+-Input types
+-Input attributen
+
+
+HTML-CSS-06: Achtergronden en ontwerpprincipes
+-----------------------------------------------
+-Achtergronden
+-Achtergrondafbeeldingen
+-Formulierelementen
+-Ontwerpen met een doel
+-Typografie
+-Kleuren
+-Lay-out
